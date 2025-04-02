@@ -1,26 +1,19 @@
 # Personal Portfolio 🔥
-> (https://github.com/ParthShxrma/Portfolio)
+> (https://github.com/BhavyaDhimxn/My-Portfolio)
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 ### Website Preview
 #### Home Page
-<img src="<img width="1440" alt="home" src="https://github.com/user-attachments/assets/a3e8c06f-801f-47a0-b39e-e68bd78c3bbc" />
-" width="900">
+<img src="<img width="1440" alt="home" src="![alt text](image.png)" />
 
 
 #### About Page
-<img src="<img width="1440" alt="about" src="https://github.com/user-attachments/assets/052d8180-a2a2-4cb6-acec-3d501d1f8d96" />
-" width="900">
+<img src="<img width="1440" alt="about" src="![alt text](image-1.png)" />
 
 
 #### Projects Page
-<img src="![Uploading projects.jpeg…]()
+<img src="![alt text](image-2.png)
 " width="900">
   
 

@@ -1,22 +1,6 @@
 # Personal Portfolio 🔥
 > (https://github.com/BhavyaDhimxn/My-Portfolio)
 
-:star: Star me on GitHub — it helps!
-
-### Website Preview
-#### Home Page
-<img src="<img width="1440" alt="home" src="![alt text](image.png)" />
-
-
-#### About Page
-<img src="<img width="1440" alt="about" src="![alt text](image-1.png)" />
-
-
-#### Projects Page
-<img src="![alt text](image-2.png)
-" width="900">
-  
-
 
 :star: Star me on GitHub — it helps!
 
